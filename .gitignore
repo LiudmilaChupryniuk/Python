@@ -1,0 +1,29 @@
+def f(x):
+    return True 
+a = 5
+b = 3
+c = 4
+if a + b > c and a + c > b and b + c >a:
+    print(True)
+else:
+    print(False)
+    
+def i(y):
+    return True 
+d = 6
+e = 8
+f = 10
+if d + e > f and d + f > e and e + f >d:
+    print(True)
+else:
+    print(False)
+    
+def u (p):
+    return True 
+g = 100
+j = 3
+k = 65
+if g + j > k and g + k > j and j + k >g:
+    print(True)
+else:
+    print(False)
